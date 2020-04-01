@@ -24,11 +24,7 @@ public class Income {
      System.out.println("");
      System.out.println("List: " + incomes);
      System.out.println("");
-     System.out.println("  _                  _          ___               _               \n" +
-" | |__   _  _     __| |  ___   / __|  __ _   ___ | |_   _ _   ___ \n" +
-" | '_ \\ | || |   / _` | / -_) | (__  / _` | (_-< |  _| | '_| / _ \\\n" +
-" |_.__/  \\_, |   \\__,_| \\___|  \\___| \\__,_| /__/  \\__| |_|   \\___/\n" +
-"         |__/                                                     ");
+     
       
     }
     
