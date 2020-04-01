@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.Scanner;
 /**
  *
- * @deCastro
+ * @garciadecastro
  */
 public class Income {
 
